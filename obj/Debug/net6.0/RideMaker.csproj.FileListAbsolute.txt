@@ -1,0 +1,15 @@
+c:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\RideMaker\bin\Debug\net6.0\RideMaker.exe
+c:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\RideMaker\bin\Debug\net6.0\RideMaker.deps.json
+c:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\RideMaker\bin\Debug\net6.0\RideMaker.runtimeconfig.json
+c:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\RideMaker\bin\Debug\net6.0\RideMaker.dll
+c:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\RideMaker\bin\Debug\net6.0\RideMaker.pdb
+c:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\RideMaker\obj\Debug\net6.0\RideMaker.csproj.AssemblyReference.cache
+c:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\RideMaker\obj\Debug\net6.0\RideMaker.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\RideMaker\obj\Debug\net6.0\RideMaker.AssemblyInfoInputs.cache
+c:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\RideMaker\obj\Debug\net6.0\RideMaker.AssemblyInfo.cs
+c:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\RideMaker\obj\Debug\net6.0\RideMaker.csproj.CoreCompileInputs.cache
+c:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\RideMaker\obj\Debug\net6.0\RideMaker.dll
+c:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\RideMaker\obj\Debug\net6.0\refint\RideMaker.dll
+c:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\RideMaker\obj\Debug\net6.0\RideMaker.pdb
+c:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\RideMaker\obj\Debug\net6.0\RideMaker.genruntimeconfig.cache
+c:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\RideMaker\obj\Debug\net6.0\ref\RideMaker.dll
